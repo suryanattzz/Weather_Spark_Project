@@ -1,0 +1,13 @@
+station_id,city,station_zone,is_active,commissioned
+STN_CHN_01,Chennai,South,true,2024-01-01
+STN_CHN_02,Chennai,South,true,2024-01-01
+STN_BLR_01,Bangalore,South,true,2024-01-01
+STN_BLR_02,Bangalore,South,true,2024-01-01
+STN_HYD_01,Hyderabad,South,true,2024-01-01
+STN_HYD_02,Hyderabad,South,true,2024-01-01
+STN_MUM_01,Mumbai,West,true,2024-01-01
+STN_MUM_02,Mumbai,West,true,2024-01-01
+STN_DEL_01,Delhi,North,true,2024-01-01
+STN_DEL_02,Delhi,North,true,2024-01-01
+STN_PNE_01,Pune,West,true,2024-01-01
+STN_PNE_02,Pune,West,true,2024-01-01

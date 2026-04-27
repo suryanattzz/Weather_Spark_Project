@@ -1,0 +1,73 @@
+city,country,event_time,temperature,humidity,wind_speed,pressure,weather_condition,rainfall,station_id,data_provider
+Chennai,India,2026-03-05 00:00:00,85,150,-12,1010.8,Haze,1.2,STN_CHN_02,SkyWatch
+Bangalore,India,2026-03-05 00:00:00,-20,150,-12,914.0,Clear,8.0,STN_BLR_01,SkyWatch
+Hyderabad,India,2026-03-05 00:00:00,29.1,65,19.0,996.7,Rainy,4.6,STN_HYD_01,SkyWatch
+Mumbai,India,2026-03-05 00:00:00,85,-10,-5,1008.2,Rainy,2.9,STN_MUM_02,SkyWatch
+Delhi,India,2026-03-05 00:00:00,42.4,37,10.2,1000.9,Partly Cloudy,4.4,STN_DEL_02,SkyWatch
+Pune,India,2026-03-05 00:00:00,-20,140,-5,941.0,Thunderstorm,3.3,STN_PNE_02,SkyWatch
+Chennai,India,2026-03-05 01:00:00,37.4,64,15.7,1006.1,Cloudy,8.6,STN_CHN_01,SkyWatch
+Bangalore,India,2026-03-05 01:00:00,85,-10,-99,907.0,Haze,9.1,STN_BLR_02,SkyWatch
+Hyderabad,India,2026-03-05 01:00:00,85,150,-5,1004.1,Foggy,3.6,STN_HYD_01,SkyWatch
+Mumbai,India,2026-03-05 01:00:00,35.8,65,16.2,1011.6,Partly Cloudy,12.9,STN_MUM_02,SkyWatch
+Delhi,India,2026-03-05 01:00:00,85,-10,-5,1002.6,Cloudy,3.9,STN_DEL_02,SkyWatch
+Pune,India,2026-03-05 01:00:00,30.5,64,18.5,951.0,Foggy,2.9,STN_PNE_02,SkyWatch
+Chennai,India,2026-03-05 02:00:00,33.0,84,10.1,1011.3,Partly Cloudy,1.1,STN_CHN_01,SkyWatch
+Bangalore,India,2026-03-05 02:00:00,85,140,-5,913.0,Cloudy,4.4,STN_BLR_02,SkyWatch
+Hyderabad,India,2026-03-05 02:00:00,31.6,64,14.7,996.7,Foggy,9.7,STN_HYD_02,SkyWatch
+Mumbai,India,2026-03-05 02:00:00,-20,-10,-5,1014.9,Clear,5.2,STN_MUM_02,SkyWatch
+Delhi,India,2026-03-05 02:00:00,85,150,-12,1001.6,Thunderstorm,3.9,STN_DEL_02,SkyWatch
+Pune,India,2026-03-05 02:00:00,85,-10,-99,942.2,Clear,0.7,STN_PNE_02,SkyWatch
+Chennai,India,2026-03-05 03:00:00,33.3,72,9.8,1012.9,Foggy,1.9,STN_CHN_02,SkyWatch
+Bangalore,India,2026-03-05 03:00:00,31.7,54,11.0,902.6,Partly Cloudy,1.0,STN_BLR_01,SkyWatch
+Hyderabad,India,2026-03-05 03:00:00,110,150,-99,991.0,Clear,11.5,STN_HYD_01,SkyWatch
+Mumbai,India,2026-03-05 03:00:00,110,140,-5,1013.6,Thunderstorm,12.6,STN_MUM_02,SkyWatch
+Delhi,India,2026-03-05 03:00:00,28.6,54,15.6,1004.8,Cloudy,1.5,STN_DEL_01,SkyWatch
+Pune,India,2026-03-05 03:00:00,33.9,51,17.4,953.4,Rainy,8.5,STN_PNE_01,SkyWatch
+Chennai,India,2026-03-05 04:00:00,91,140,-99,1010.7,Cloudy,1.6,STN_CHN_02,SkyWatch
+Bangalore,India,2026-03-05 04:00:00,-20,140,-5,910.4,Clear,5.2,STN_BLR_01,SkyWatch
+Hyderabad,India,2026-03-05 04:00:00,110,-10,-5,1001.6,Cloudy,6.5,STN_HYD_01,SkyWatch
+Mumbai,India,2026-03-05 04:00:00,29.8,74,24.5,1011.4,Clear,7.7,STN_MUM_02,SkyWatch
+Delhi,India,2026-03-05 04:00:00,-20,-10,-99,997.5,Haze,0.8,STN_DEL_02,SkyWatch
+Pune,India,2026-03-05 04:00:00,29.0,56,14.7,942.8,Clear,9.4,STN_PNE_02,SkyWatch
+Chennai,India,2026-03-05 05:00:00,30.6,62,8.2,1011.5,Partly Cloudy,2.1,STN_CHN_02,SkyWatch
+Bangalore,India,2026-03-05 05:00:00,-20,-10,-12,900.4,Haze,9.0,STN_BLR_02,SkyWatch
+Hyderabad,India,2026-03-05 05:00:00,37.3,69,17.4,992.0,Clear,0.0,STN_HYD_02,SkyWatch
+Mumbai,India,2026-03-05 05:00:00,35.1,84,13.0,1010.5,Foggy,4.6,STN_MUM_02,SkyWatch
+Delhi,India,2026-03-05 05:00:00,85,-10,-12,999.6,Rainy,3.0,STN_DEL_01,SkyWatch
+Pune,India,2026-03-05 05:00:00,28.8,74,6.2,945.0,Rainy,11.0,STN_PNE_02,SkyWatch
+Chennai,India,2026-03-05 06:00:00,28.1,85,8.9,1005.9,Clear,14.3,STN_CHN_02,SkyWatch
+Bangalore,India,2026-03-05 06:00:00,25.9,58,15.9,901.3,Foggy,9.6,STN_BLR_02,SkyWatch
+Hyderabad,India,2026-03-05 06:00:00,-20,140,-5,991.6,Haze,4.9,STN_HYD_02,SkyWatch
+Mumbai,India,2026-03-05 06:00:00,28.9,90,23.2,1012.1,Clear,14.4,STN_MUM_01,SkyWatch
+Delhi,India,2026-03-05 06:00:00,38.2,46,24.6,995.3,Cloudy,5.2,STN_DEL_01,SkyWatch
+Pune,India,2026-03-05 06:00:00,-20,150,-99,946.7,Clear,6.0,STN_PNE_02,SkyWatch
+Chennai,India,2026-03-05 07:00:00,91,150,-12,1005.1,Haze,4.9,STN_CHN_01,SkyWatch
+Bangalore,India,2026-03-05 07:00:00,30.4,55,6.1,912.0,Cloudy,7.9,STN_BLR_02,SkyWatch
+Hyderabad,India,2026-03-05 07:00:00,25.7,66,9.0,1000.9,Cloudy,2.5,STN_HYD_02,SkyWatch
+Mumbai,India,2026-03-05 07:00:00,34.0,76,14.0,1013.0,Clear,15.9,STN_MUM_01,SkyWatch
+Delhi,India,2026-03-05 07:00:00,32.7,56,28.4,1000.0,Thunderstorm,5.0,STN_DEL_01,SkyWatch
+Pune,India,2026-03-05 07:00:00,24.0,62,9.9,951.9,Cloudy,8.8,STN_PNE_02,SkyWatch
+Chennai,India,2026-03-05 08:00:00,91,140,-5,1009.1,Clear,11.4,STN_CHN_01,SkyWatch
+Bangalore,India,2026-03-05 08:00:00,-20,140,-99,909.6,Thunderstorm,8.4,STN_BLR_02,SkyWatch
+Hyderabad,India,2026-03-05 08:00:00,91,150,-12,992.5,Rainy,9.1,STN_HYD_02,SkyWatch
+Mumbai,India,2026-03-05 08:00:00,33.4,68,20.6,1015.2,Cloudy,0.7,STN_MUM_02,SkyWatch
+Delhi,India,2026-03-05 08:00:00,34.5,38,18.1,1008.3,Thunderstorm,7.3,STN_DEL_02,SkyWatch
+Pune,India,2026-03-05 08:00:00,85,-10,-5,949.0,Rainy,11.2,STN_PNE_02,SkyWatch
+Chennai,India,2026-03-05 09:00:00,85,-10,-5,1006.1,Clear,8.2,STN_CHN_01,SkyWatch
+Bangalore,India,2026-03-05 09:00:00,23.3,57,10.1,911.1,Clear,7.2,STN_BLR_02,SkyWatch
+Hyderabad,India,2026-03-05 09:00:00,-20,-10,-99,996.7,Partly Cloudy,9.7,STN_HYD_02,SkyWatch
+Mumbai,India,2026-03-05 09:00:00,30.7,88,19.5,1014.8,Haze,11.7,STN_MUM_02,SkyWatch
+Delhi,India,2026-03-05 09:00:00,32.3,52,8.6,999.8,Cloudy,7.1,STN_DEL_01,SkyWatch
+Pune,India,2026-03-05 09:00:00,91,-10,-99,940.2,Haze,11.9,STN_PNE_01,SkyWatch
+Chennai,India,2026-03-05 10:00:00,85,-10,-99,1014.0,Partly Cloudy,7.6,STN_CHN_01,SkyWatch
+Bangalore,India,2026-03-05 10:00:00,91,-10,-12,909.2,Partly Cloudy,3.8,STN_BLR_02,SkyWatch
+Hyderabad,India,2026-03-05 10:00:00,33.8,48,14.3,994.7,Thunderstorm,3.6,STN_HYD_02,SkyWatch
+Mumbai,India,2026-03-05 10:00:00,30.0,73,21.3,1013.7,Thunderstorm,1.9,STN_MUM_02,SkyWatch
+Delhi,India,2026-03-05 10:00:00,23.5,63,23.0,1006.5,Foggy,2.8,STN_DEL_01,SkyWatch
+Pune,India,2026-03-05 10:00:00,91,140,-12,951.2,Haze,9.6,STN_PNE_02,SkyWatch
+Chennai,India,2026-03-05 11:00:00,91,140,-5,1009.5,Thunderstorm,1.9,STN_CHN_01,SkyWatch
+Bangalore,India,2026-03-05 11:00:00,-20,150,-99,913.2,Rainy,5.7,STN_BLR_02,SkyWatch
+Hyderabad,India,2026-03-05 11:00:00,33.1,62,20.7,993.9,Foggy,6.9,STN_HYD_01,SkyWatch
+Mumbai,India,2026-03-05 11:00:00,110,140,-99,1013.1,Cloudy,3.2,STN_MUM_01,SkyWatch
+Delhi,India,2026-03-05 11:00:00,23.1,63,9.0,999.8,Thunderstorm,6.4,STN_DEL_02,SkyWatch
+Pune,India,2026-03-05 11:00:00,26.6,58,16.9,949.7,Foggy,6.5,STN_PNE_01,SkyWatch
