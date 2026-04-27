@@ -1,4 +1,4 @@
-# Databricks Weather Analytics Platform
+# Databricks Weather Analytics Project
 
 This repository implements an end-to-end weather data pipeline on Databricks using Medallion architecture:
 
